@@ -161,7 +161,11 @@ body {
     padding-left: 0;
     padding-right: 0;
 }
-
+.arrow:hover {
+    cursor: pointer;
+    opacity: 0.5;
+    
+}
 
 
 
